@@ -111,3 +111,5 @@ t_emp
 #####################
 
 expenditure <- read.table("https://raw.githubusercontent.com/ASDS-TCD/StatsI_2026/main/datasets/expenditure.txt", header=T)
+
+# Option 1. 
